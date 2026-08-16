@@ -1,0 +1,16 @@
+[book]
+title = "Manual para el Crecimiento Cristiano"
+authors = ["Dr. Pablo Eduardo Cancino Marentes"]
+description = "Una ruta práctica para la madurez espiritual: Fundamentos del carácter, las tres etapas del desarrollo espiritual y trece modelos bíblicos de crecimiento"
+language = "es"
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/PabloeCancino/manual-para-el-crecimiento-cristiano"
+edit-url-template = "https://github.com/PabloeCancino/manual-para-el-crecimiento-cristiano/edit/main/{path}"
+
+[output.html.search]
+enable = true
+limit-results = 20
